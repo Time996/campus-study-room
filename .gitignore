@@ -11,4 +11,3 @@ instance/
 *.db
 *.log
 .coverage
-
